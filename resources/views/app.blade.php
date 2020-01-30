@@ -14,6 +14,7 @@
 	<link type="text/css" rel="stylesheet" href='https://fonts.googleapis.com/css?family=Roboto:400,300'>
 	<link type="text/css" rel="stylesheet" href="/css/app.css">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="./css/footer.css">
 
 </head>
 <body>
@@ -61,7 +62,8 @@
 							<h5 class="widget-title">
 								Al Chilazo <span></span>
 							</h5>
-							<p>Acerca de la compania, peque;a descripcion</p>
+							<p>En Al Chilazo encontrarás una gran variedad de artículos de distintas categorías, que puedes comprar con un solo clic desde la comodidad de tu hogar sin salir de tu casa.  Nosotros nos encargamos de que llegue a la puerta de tu hogar o puedes seleccionar tu distribuidor de confianza revisa nuestros puntos de distribución. <br><br>
+							Gracias por confiar en nosotros, tu proveedor de confianza.</p>
 						</div>
 					</div>
 
@@ -134,12 +136,12 @@
 			</div>
 		</div>
 
-		<div class="footer-copyringht">
+		<div class="footer-copyright">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<p>Copyright &copy; 2020 Grupo Chiquitó</p> <br>
-						<small>Derechos reservados</small>
+						<p>Copyright &copy; 2020 Grupo Chiquitó S.A.</p> <br>
+						<p><small>All rights reserved</small></p>
 					</div>
 				</div>
 			</div>
